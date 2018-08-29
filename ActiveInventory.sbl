@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_SkinInventory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Character />
+  <Tools />
+  <Color x="0.55" y="0.199999988" z="0.55" />
+  <Model>Default_Astronaut_Female</Model>
+</MyObjectBuilder_SkinInventory>
