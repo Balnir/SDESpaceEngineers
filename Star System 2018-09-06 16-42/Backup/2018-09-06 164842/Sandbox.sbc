@@ -1,0 +1,985 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CurrentSector x="0" y="0" z="0" />
+  <ElapsedGameTime>4681440000</ElapsedGameTime>
+  <SessionName>Star System 2018-09-06 16:42</SessionName>
+  <SpectatorPosition>
+    <Position x="-27659.279296875004" y="-46821.316406250007" z="-43511.867187500015" />
+    <Forward x="-0.5272088" y="-0.5043053" z="-0.683905661" />
+    <Up x="0.8389716" y="-0.181225523" z="-0.513112" />
+    <Orientation>
+      <X>-0.397537351</X>
+      <Y>0.00334750651</Y>
+      <Z>-0.6577057</Z>
+      <W>0.639825</W>
+    </Orientation>
+  </SpectatorPosition>
+  <SpectatorIsLightOn>false</SpectatorIsLightOn>
+  <CameraController>Entity</CameraController>
+  <CameraEntity>123300475379765112</CameraEntity>
+  <ControlledObject>123300475379765112</ControlledObject>
+  <Password />
+  <Description />
+  <LastSaveTime>2018-09-06T16:48:41.3343622-03:00</LastSaveTime>
+  <SpectatorDistance>38.1531067</SpectatorDistance>
+  <CharacterToolbar>
+    <ToolbarType>Character</ToolbarType>
+    <SelectedSlot>0</SelectedSlot>
+    <Slots>
+      <Slot>
+        <Index>0</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>1</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>2</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>3</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>4</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>5</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>6</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>7</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
+        </Data>
+      </Slot>
+      <Slot>
+        <Index>8</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
+        </Data>
+      </Slot>
+    </Slots>
+  </CharacterToolbar>
+  <ControlledEntities>
+    <dictionary>
+      <item>
+        <Key>123300475379765112</Key>
+        <Value>
+          <ClientId>76561198027660616</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+    </dictionary>
+  </ControlledEntities>
+  <Settings xsi:type="MyObjectBuilder_SessionSettings">
+    <GameMode>Survival</GameMode>
+    <InventorySizeMultiplier>10</InventorySizeMultiplier>
+    <AssemblerSpeedMultiplier>3</AssemblerSpeedMultiplier>
+    <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
+    <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>4</MaxPlayers>
+    <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxGridSize>0</MaxGridSize>
+    <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
+    <TotalPCU>100000</TotalPCU>
+    <MaxFactionsCount>0</MaxFactionsCount>
+    <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
+    <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
+    <EnvironmentHostility>SAFE</EnvironmentHostility>
+    <AutoHealing>true</AutoHealing>
+    <EnableCopyPaste>false</EnableCopyPaste>
+    <WeaponsEnabled>true</WeaponsEnabled>
+    <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
+    <ThrusterDamage>true</ThrusterDamage>
+    <CargoShipsEnabled>false</CargoShipsEnabled>
+    <EnableSpectator>false</EnableSpectator>
+    <WorldSizeKm>0</WorldSizeKm>
+    <RespawnShipDelete>true</RespawnShipDelete>
+    <ResetOwnership>false</ResetOwnership>
+    <WelderSpeedMultiplier>2</WelderSpeedMultiplier>
+    <GrinderSpeedMultiplier>2</GrinderSpeedMultiplier>
+    <RealisticSound>false</RealisticSound>
+    <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
+    <PermanentDeath>false</PermanentDeath>
+    <AutoSaveInMinutes>5</AutoSaveInMinutes>
+    <EnableSaving>true</EnableSaving>
+    <EnableRespawnScreen>true</EnableRespawnScreen>
+    <InfiniteAmmo>false</InfiniteAmmo>
+    <EnableContainerDrops>true</EnableContainerDrops>
+    <SpawnShipTimeMultiplier>0.5</SpawnShipTimeMultiplier>
+    <ProceduralDensity>0.25</ProceduralDensity>
+    <ProceduralSeed>0</ProceduralSeed>
+    <DestructibleBlocks>true</DestructibleBlocks>
+    <EnableIngameScripts>false</EnableIngameScripts>
+    <ViewDistance>15000</ViewDistance>
+    <FloraDensity>20</FloraDensity>
+    <EnableToolShake>true</EnableToolShake>
+    <VoxelGeneratorVersion>2</VoxelGeneratorVersion>
+    <EnableOxygen>true</EnableOxygen>
+    <EnableOxygenPressurization>false</EnableOxygenPressurization>
+    <Enable3rdPersonView>true</Enable3rdPersonView>
+    <EnableEncounters>false</EnableEncounters>
+    <EnableFlora>true</EnableFlora>
+    <EnableConvertToStation>true</EnableConvertToStation>
+    <StationVoxelSupport>false</StationVoxelSupport>
+    <EnableSunRotation>true</EnableSunRotation>
+    <EnableRespawnShips>true</EnableRespawnShips>
+    <ScenarioEditMode>false</ScenarioEditMode>
+    <Scenario>false</Scenario>
+    <CanJoinRunning>false</CanJoinRunning>
+    <PhysicsIterations>8</PhysicsIterations>
+    <SunRotationIntervalMinutes>119.999992</SunRotationIntervalMinutes>
+    <EnableJetpack>true</EnableJetpack>
+    <SpawnWithTools>true</SpawnWithTools>
+    <StartInRespawnScreen>false</StartInRespawnScreen>
+    <EnableVoxelDestruction>true</EnableVoxelDestruction>
+    <MaxDrones>5</MaxDrones>
+    <EnableDrones>false</EnableDrones>
+    <EnableWolfs>false</EnableWolfs>
+    <EnableSpiders>false</EnableSpiders>
+    <FloraDensityMultiplier>1</FloraDensityMultiplier>
+    <EnableStructuralSimulation>false</EnableStructuralSimulation>
+    <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
+    <BlockTypeLimits>
+      <dictionary />
+    </BlockTypeLimits>
+    <EnableScripterRole>false</EnableScripterRole>
+    <MinDropContainerRespawnTime>5</MinDropContainerRespawnTime>
+    <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
+    <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
+    <EnableSubgridDamage>false</EnableSubgridDamage>
+    <SyncDistance>3000</SyncDistance>
+    <ExperimentalMode>true</ExperimentalMode>
+    <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
+    <EnableVoxelHand>false</EnableVoxelHand>
+    <TrashRemovalEnabled>true</TrashRemovalEnabled>
+    <TrashFlagsValue>1562</TrashFlagsValue>
+    <BlockCountThreshold>20</BlockCountThreshold>
+    <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
+    <OptimalGridCount>0</OptimalGridCount>
+    <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
+    <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
+  </Settings>
+  <ScriptManagerData>
+    <variables>
+      <dictionary />
+    </variables>
+  </ScriptManagerData>
+  <AppVersion>1187205</AppVersion>
+  <Factions>
+    <Factions>
+      <MyObjectBuilder_Faction>
+        <FactionId>273060811546874192</FactionId>
+        <Tag>SPRT</Tag>
+        <Name>{LOCG:DisplayName_Faction_SpacePirates_Translation}</Name>
+        <PrivateInfo />
+        <Members>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855894</PlayerId>
+            <IsLeader>true</IsLeader>
+            <IsFounder>true</IsFounder>
+          </MyObjectBuilder_FactionMember>
+        </Members>
+        <JoinRequests />
+        <AutoAcceptMember>true</AutoAcceptMember>
+        <AutoAcceptPeace>false</AutoAcceptPeace>
+        <AcceptHumans>true</AcceptHumans>
+        <EnableFriendlyFire>false</EnableFriendlyFire>
+      </MyObjectBuilder_Faction>
+      <MyObjectBuilder_Faction>
+        <FactionId>270184222006364636</FactionId>
+        <Tag>SPID</Tag>
+        <Name>{LOCG:DisplayName_Faction_SpaceSpiders_Translation}</Name>
+        <PrivateInfo />
+        <Members>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855896</PlayerId>
+            <IsLeader>true</IsLeader>
+            <IsFounder>true</IsFounder>
+          </MyObjectBuilder_FactionMember>
+        </Members>
+        <JoinRequests />
+        <AutoAcceptMember>false</AutoAcceptMember>
+        <AutoAcceptPeace>false</AutoAcceptPeace>
+        <AcceptHumans>true</AcceptHumans>
+        <EnableFriendlyFire>false</EnableFriendlyFire>
+      </MyObjectBuilder_Faction>
+      <MyObjectBuilder_Faction>
+        <FactionId>230564346060810639</FactionId>
+        <Tag>CORRUPT</Tag>
+        <Name>The Corrupt</Name>
+        <PrivateInfo />
+        <Members>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855898</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+        </Members>
+        <JoinRequests />
+        <AutoAcceptMember>false</AutoAcceptMember>
+        <AutoAcceptPeace>false</AutoAcceptPeace>
+        <AcceptHumans>true</AcceptHumans>
+        <EnableFriendlyFire>false</EnableFriendlyFire>
+      </MyObjectBuilder_Faction>
+    </Factions>
+    <Players>
+      <dictionary>
+        <item>
+          <Key>144115188075855894</Key>
+          <Value>273060811546874192</Value>
+        </item>
+        <item>
+          <Key>144115188075855896</Key>
+          <Value>270184222006364636</Value>
+        </item>
+        <item>
+          <Key>144115188075855898</Key>
+          <Value>230564346060810639</Value>
+        </item>
+      </dictionary>
+    </Players>
+    <Relations>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>270184222006364636</FactionId1>
+        <FactionId2>273060811546874192</FactionId2>
+        <Relation>Enemies</Relation>
+      </MyObjectBuilder_FactionRelation>
+    </Relations>
+    <Requests />
+  </Factions>
+  <Mods>
+    <ModItem FriendlyName="Corruption - PvE Combat">
+      <Name>914369510.sbm</Name>
+      <PublishedFileId>914369510</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="[RETIRED] NPC Custom Faction Fixer">
+      <Name>1445442488.sbm</Name>
+      <PublishedFileId>1445442488</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Planetary Installations">
+      <Name>1135484377.sbm</Name>
+      <PublishedFileId>1135484377</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Useless Wolves and Spiders AI Fix">
+      <Name>1336820054.sbm</Name>
+      <PublishedFileId>1336820054</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Surface Occupation">
+      <Name>1135484957.sbm</Name>
+      <PublishedFileId>1135484957</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Planetary Cargo Ships">
+      <Name>973528334.sbm</Name>
+      <PublishedFileId>973528334</PublishedFileId>
+    </ModItem>
+  </Mods>
+  <PromotedUsers>
+    <dictionary />
+  </PromotedUsers>
+  <CreativeTools />
+  <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="StarSystem" />
+  <RespawnCooldowns>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561197967630685</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>PlanetaryLander</RespawnShipId>
+      <Cooldown>1440</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561197967630685</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>MarsLander</RespawnShipId>
+      <Cooldown>1440</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561197967630685</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>AlienLander</RespawnShipId>
+      <Cooldown>1440</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561197967630685</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>RespawnShip</RespawnShipId>
+      <Cooldown>1440</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>PlanetaryLander</RespawnShipId>
+      <Cooldown>222501</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>MarsLander</RespawnShipId>
+      <Cooldown>222501</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>AlienLander</RespawnShipId>
+      <Cooldown>222501</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>RespawnShip</RespawnShipId>
+      <Cooldown>222501</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>Assembler</RespawnShipId>
+      <Cooldown>42501</Cooldown>
+    </RespawnCooldownItem>
+    <RespawnCooldownItem>
+      <PlayerSteamId>76561198027660616</PlayerSteamId>
+      <PlayerSerialId>0</PlayerSerialId>
+      <RespawnShipId>RefineryAssembler</RespawnShipId>
+      <Cooldown>102501</Cooldown>
+    </RespawnCooldownItem>
+  </RespawnCooldowns>
+  <Identities>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855894</IdentityId>
+      <DisplayName>Space Pirates</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2018-09-06T16:43:54.0062952-03:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
+      <RespawnShips />
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855896</IdentityId>
+      <DisplayName>The Great Tarantula</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2018-09-06T16:43:49.2383851-03:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
+      <RespawnShips />
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855897</IdentityId>
+      <DisplayName>Lt.Merca</DisplayName>
+      <CharacterEntityId>123300475379765112</CharacterEntityId>
+      <Model>Default_Astronaut_Female</Model>
+      <ColorMask x="0.55" y="0.199999988" z="0.55" />
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2018-09-06T16:43:53.7055977-03:00</LastLoginTime>
+      <SavedCharacters>
+        <long>123300475379765112</long>
+      </SavedCharacters>
+      <LastLogoutTime>2018-09-06T16:48:41.3343622-03:00</LastLogoutTime>
+      <RespawnShips>
+        <long>77258557991346405</long>
+      </RespawnShips>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855898</IdentityId>
+      <DisplayName>Exiled Engineer</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2018-09-06T16:43:53.7875967-03:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2018-09-06T16:43:53.7875967-03:00</LastLogoutTime>
+      <RespawnShips />
+    </MyObjectBuilder_Identity>
+  </Identities>
+  <PreviousEnvironmentHostility>SAFE</PreviousEnvironmentHostility>
+  <AllPlayersData>
+    <dictionary>
+      <item>
+        <Key>
+          <ClientId>76561198027660616</ClientId>
+          <SerialId>0</SerialId>
+        </Key>
+        <Value>
+          <DisplayName>Lt.Merca</DisplayName>
+          <IdentityId>144115188075855897</IdentityId>
+          <Connected>true</Connected>
+          <ForceRealPlayer>true</ForceRealPlayer>
+          <Toolbar>
+            <ToolbarType>Character</ToolbarType>
+            <SelectedSlot xsi:nil="true" />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>1</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>2</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>3</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>4</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>5</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>6</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>7</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>8</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
+                </Data>
+              </Slot>
+            </Slots>
+          </Toolbar>
+          <EntityCameraData>
+            <CameraControllerSettings EntityId="123300475379765112">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="76153073215123212">
+              <IsFirstPerson>false</IsFirstPerson>
+              <Distance>38.15310674434027</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+          </EntityCameraData>
+        </Value>
+      </item>
+    </dictionary>
+  </AllPlayersData>
+  <AllPlayersColors>
+    <dictionary>
+      <item>
+        <Key>
+          <ClientId>76561197996829390</ClientId>
+          <SerialId>0</SerialId>
+        </Key>
+        <Value>
+          <Vector3>
+            <X>0</X>
+            <Y>-1</Y>
+            <Z>0</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>0</Y>
+            <Z>0.05</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.333333343</X>
+            <Y>-0.48</Y>
+            <Z>-0.25</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.575</X>
+            <Y>0</Y>
+            <Z>0</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.122222222</X>
+            <Y>-0.1</Y>
+            <Z>0.26</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.95</Y>
+            <Z>0.4</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.96</Y>
+            <Z>-0.5</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.85</Y>
+            <Z>0.2</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>0.15</Y>
+            <Z>0.25</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.333333343</X>
+            <Y>-0.329999983</Y>
+            <Z>-0.049999997</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.575</X>
+            <Y>0.15</Y>
+            <Z>0.2</Z>
+          </Vector3>
+          <Vector3>
+            <X>0.122222222</X>
+            <Y>0.0500000045</Y>
+            <Z>0.459999979</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.799999952</Y>
+            <Z>0.6</Z>
+          </Vector3>
+          <Vector3>
+            <X>0</X>
+            <Y>-0.809999943</Y>
+            <Z>-0.3</Z>
+          </Vector3>
+        </Value>
+      </item>
+    </dictionary>
+  </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
+  <NonPlayerIdentities>
+    <long>144115188075855894</long>
+    <long>144115188075855896</long>
+    <long>144115188075855898</long>
+  </NonPlayerIdentities>
+  <Gps>
+    <dictionary />
+  </Gps>
+  <SessionComponents>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_LocalizationSessionComponent">
+      <AdditionalPaths />
+      <CampaignPaths />
+      <CampaignModFolderName />
+      <Language>English</Language>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SharedStorageComponent">
+      <ExistingFieldsAndStaticAttribute>
+        <dictionary />
+      </ExistingFieldsAndStaticAttribute>
+      <BoolStorage>
+        <dictionary />
+      </BoolStorage>
+      <IntStorage>
+        <dictionary />
+      </IntStorage>
+      <LongStorage>
+        <dictionary />
+      </LongStorage>
+      <StringStorage>
+        <dictionary />
+      </StringStorage>
+      <FloatStorage>
+        <dictionary />
+      </FloatStorage>
+      <Vector3DStorage>
+        <dictionary />
+      </Vector3DStorage>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_VisualScriptManagerSessionComponent">
+      <FirstRun>false</FirstRun>
+      <LevelScriptFiles xsi:nil="true" />
+      <StateMachines xsi:nil="true" />
+      <ScriptStateMachineManager>
+        <ActiveStateMachines />
+      </ScriptStateMachineManager>
+      <Questlog>
+        <LineData />
+        <Title>Prepare to Leave the Escape Pod</Title>
+        <Visible>false</Visible>
+      </Questlog>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
+      <SpawnInfos>
+        <Info X="-17393.546731421295" Y="-45475.593629530144" Z="-37498.252407484571" S="2329" A="43300" />
+      </SpawnInfos>
+      <TimeoutInfos />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentSafeZones">
+      <AllowedActions>All</AllowedActions>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CampaignSessionComponent">
+      <IsVanilla>false</IsVanilla>
+      <Mod />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
+      <TimeSinceLastEventInMs>20717</TimeSinceLastEventInMs>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
+      <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
+      <LastCoordSysId>2</LastCoordSysId>
+      <CoordSystems />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
+      <BaseSunDirection x="0" y="0" z="1" />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContainerDropSystem">
+      <Definition Type="MyObjectBuilder_ContainerDropSystemDefinition" Subtype="Default" />
+      <PlayerData>
+        <PlayerContainerData>
+          <PlayerId>144115188075855897</PlayerId>
+          <Timer>557</Timer>
+          <Active>true</Active>
+          <Competetive>false</Competetive>
+          <ContainerId>0</ContainerId>
+        </PlayerContainerData>
+      </PlayerData>
+      <GPSForRemoval />
+      <EntitiesForRemoval />
+      <ContainerIdSmall>1</ContainerIdSmall>
+      <ContainerIdLarge>1</ContainerIdLarge>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CutsceneSessionComponent">
+      <Cutscenes />
+      <VoxelPrecachingWaypointNames />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentReplay">
+      <EntityReplayData />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentResearch">
+      <DeserializeRequiredResearches>false</DeserializeRequiredResearches>
+      <WhitelistMode>false</WhitelistMode>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_Encounters">
+      <SavedEcounters />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_WorldGenerator">
+      <MarkedAreas>
+        <EmptyArea>
+          <Position>
+            <X>1031072.5</X>
+            <Y>131072.5</Y>
+            <Z>1631072.5</Z>
+          </Position>
+          <Radius>67200</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>36384.5</X>
+            <Y>226384.5</Y>
+            <Z>5796384.5</Z>
+          </Position>
+          <Radius>9785</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>16384.5</X>
+            <Y>136384.5</Y>
+            <Z>-113615.5</Z>
+          </Position>
+          <Radius>9785</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>131072.5</X>
+            <Y>131072.5</Y>
+            <Z>5731072.5</Z>
+          </Position>
+          <Radius>67200</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Position>
+          <Radius>67200</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>916384.5</X>
+            <Y>16384.5</Y>
+            <Z>1616384.5</Z>
+          </Position>
+          <Radius>10070</Radius>
+        </EmptyArea>
+      </MarkedAreas>
+      <DeletedAreas />
+      <ExistingObjectsSeeds />
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_PirateAntennas">
+      <PiratesIdentity>144115188075855894</PiratesIdentity>
+      <Drones />
+    </MyObjectBuilder_SessionComponent>
+  </SessionComponents>
+  <GameDefinition Type="MyObjectBuilder_GameDefinition" Subtype="Default" />
+  <SessionComponentEnabled />
+  <SessionComponentDisabled />
+  <InGameTime>2081-01-01T07:00:00</InGameTime>
+  <MissionTriggers>
+    <Triggers>
+      <dictionary>
+        <item>
+          <Key>
+            <stm>76561197967630685</stm>
+            <ser>0</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>0</stm>
+            <ser>0</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>76561197967630685</stm>
+            <ser>1</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>76561197967630685</stm>
+            <ser>2</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key>
+            <stm>76561197967630685</stm>
+            <ser>3</ser>
+          </Key>
+          <Value>
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+      </dictionary>
+    </Triggers>
+  </MissionTriggers>
+  <CustomSkybox />
+  <RequiresDX>11</RequiresDX>
+  <VicinityTexturesCache>
+    <string>textures\models\cubes\paintedmetalcolorable_cm.dds</string>
+    <string>textures\models\cubes\paintedmetalcolorable_ng.dds</string>
+    <string>textures\models\cubes\paintedmetalcolorable_add.dds</string>
+    <string>textures\models\cubes\terminal_panel_cm.dds</string>
+    <string>textures\models\cubes\terminal_panel_ng.dds</string>
+    <string>textures\models\cubes\terminal_panel_add.dds</string>
+    <string>textures\models\cubes\doodads_cm.dds</string>
+    <string>textures\models\cubes\doodads_ng.dds</string>
+    <string>textures\models\cubes\doodads_add.dds</string>
+    <string>textures\models\cubes\aluminium_cm.dds</string>
+    <string>textures\models\cubes\aluminiumdull_ng.dds</string>
+    <string>textures\models\cubes\paintedmetaldarker_cm.dds</string>
+    <string>textures\models\cubes\emissiveatlas_cm.dds</string>
+    <string>textures\models\cubes\emissiveatlas_ng.dds</string>
+    <string>textures\models\cubes\emissiveatlas_add.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_01_cm.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_01_ng.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_01_add.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_01_alphamask.dds</string>
+    <string>textures\models\cubes\emissiveatlas0_add.dds</string>
+    <string>textures\models\cubes\textatlas_cm.dds</string>
+    <string>textures\models\cubes\textatlas_ng.dds</string>
+    <string>textures\models\cubes\textatlas_add.dds</string>
+    <string>textures\models\cubes\textatlas_alphamask.dds</string>
+    <string>textures\models\cubes\aluminiumglossy_ng.dds</string>
+    <string>textures\models\cubes\chrome_cm.dds</string>
+    <string>textures\models\cubes\chrome_ng.dds</string>
+    <string>textures\models\cubes\rubber_cm.dds</string>
+    <string>textures\models\cubes\rubber_ng.dds</string>
+    <string>textures\models\cubes\paintedmetalyellow_cm.dds</string>
+    <string>textures\models\cubes\conveyoryellow_cm.dds</string>
+    <string>textures\models\cubes\conveyor_ng.dds</string>
+    <string>textures\models\cubes\conveyor_add.dds</string>
+    <string>textures\models\cubes\paintedmetal_verydark_cm.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_02_cm.dds</string>
+    <string>textures\models\cubes\decals_atlas_a_02_add.dds</string>
+    <string>textures\models\cubes\conveyor_cm.dds</string>
+    <string>textures\models\cubes\programingblock_cm.dds</string>
+    <string>textures\models\cubes\programingblock_ng.dds</string>
+    <string>textures\models\cubes\programingblock_add.dds</string>
+    <string>textures\models\cubes\large_cockpit_cm.dds</string>
+    <string>textures\models\cubes\large_cockpit_ng.dds</string>
+    <string>textures\models\cubes\large_cockpit_add.dds</string>
+    <string>textures\models\cubes\seat_cm.dds</string>
+    <string>textures\models\cubes\seat_ng.dds</string>
+    <string>textures\models\cubes\seat_add.dds</string>
+    <string>textures\models\cubes\cockpit_small_cm.dds</string>
+    <string>textures\models\cubes\cockpit_small_ng.dds</string>
+    <string>textures\models\cubes\cockpit_small_add.dds</string>
+    <string>textures\models\cubes\burnedmetal_cm.dds</string>
+    <string>textures\models\cubes\burnedmetal_ng.dds</string>
+    <string>textures\models\cubes\paintedmetalcolorableglossy_cm.dds</string>
+    <string>textures\models\cubes\paintedmetalcolorableglossy_ng.dds</string>
+    <string>textures\models\cubes\paintedmetalcolorableglossy_add.dds</string>
+    <string>textures\models\cubes\textureatlas_cm.dds</string>
+    <string>textures\models\cubes\textureatlas_ng.dds</string>
+    <string>textures\models\cubes\textureatlas_add.dds</string>
+    <string>textures\models\cubes\blackmetal_cm.dds</string>
+    <string>textures\models\cubes\blackmetal_ng.dds</string>
+    <string>textures\models\cubes\screenarea_cm.dds</string>
+    <string>textures\models\cubes\screenarea_ng.dds</string>
+    <string>textures\models\cubes\screenarea_add.dds</string>
+    <string>textures\models\cubes\armor\large_square_plate_de.dds</string>
+    <string>textures\models\cubes\armor\large_square_plate_cm.dds</string>
+    <string>textures\models\cubes\armor\large_square_plate_ng.dds</string>
+    <string>textures\models\cubes\armor\large_square_plate_add.dds</string>
+    <string>textures\voxels\rocks_grass_cm.dds</string>
+    <string>textures\voxels\rocks_grass_add.dds</string>
+    <string>textures\voxels\rocks_grass_ng.dds</string>
+    <string>textures\voxels\rocks_grass_far1_cm.dds</string>
+    <string>textures\voxels\rocks_grass_far1_add.dds</string>
+    <string>textures\voxels\rocks_grass_far1_ng.dds</string>
+    <string>textures\voxels\rocks_grass_far2_cm.dds</string>
+    <string>textures\voxels\rocks_grass_far2_add.dds</string>
+    <string>textures\voxels\rocks_grass_far2_ng.dds</string>
+    <string>textures\voxels\woods_grass_cm.dds</string>
+    <string>textures\voxels\dummy_add.dds</string>
+    <string>textures\voxels\woods_grass_ng.dds</string>
+    <string>textures\voxels\woods_grass_far1_cm.dds</string>
+    <string>textures\voxels\woods_grass_far1_ng.dds</string>
+    <string>textures\voxels\woods_grass_far2_cm.dds</string>
+    <string>textures\voxels\woods_grass_far2_ng.dds</string>
+    <string>textures\models\environment\grass\woods_grass_01_cm.dds</string>
+    <string>textures\models\environment\grass\woods_grass_01_ng.dds</string>
+    <string>textures\models\environment\grass\woods_grass_02_cm.dds</string>
+    <string>textures\models\environment\grass\woods_grass_02_ng.dds</string>
+    <string>textures\models\environment\grass\woods_grass_03_cm.dds</string>
+    <string>textures\models\environment\grass\woods_grass_03_ng.dds</string>
+    <string>textures\models\environment\grass\woods_grass_04_cm.dds</string>
+    <string>textures\models\environment\grass\woods_grass_04_ng.dds</string>
+    <string>textures\voxels\soil_cm.dds</string>
+    <string>textures\voxels\soil_ng.dds</string>
+    <string>textures\voxels\soil_far1_cm.dds</string>
+    <string>textures\voxels\soil_far1_ng.dds</string>
+    <string>textures\voxels\soil_far2_cm.dds</string>
+    <string>textures\voxels\soil_far2_ng.dds</string>
+    <string>textures\voxels\earthstone_cm.dds</string>
+    <string>textures\voxels\earthstone_ng.dds</string>
+    <string>textures\voxels\earthstone_far1_cm.dds</string>
+    <string>textures\voxels\earthstone_far1_ng.dds</string>
+    <string>textures\voxels\earthstone_far2_cm.dds</string>
+    <string>textures\voxels\earthstone_far2_ng.dds</string>
+  </VicinityTexturesCache>
+  <VicinityModelsCache>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>Models\Cubes\Large\LandingGear.mwm</string>
+    <string>Models\Cubes\Large\SlideDoor.mwm</string>
+    <string>Models\Cubes\Large\conveyor.mwm</string>
+    <string>Models\Cubes\Large\OreDetector.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_Plate.mwm</string>
+    <string>Models\Cubes\Large\Assembler.mwm</string>
+    <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
+    <string>Models\Cubes\Large\Refinery.mwm</string>
+    <string>Models\Cubes\Large\MedicalRoom.mwm</string>
+    <string>Models\Cubes\Large\CockpitOpen.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
+    <string>Models\Cubes\Large\OxygenStorage.mwm</string>
+    <string>Models\Cubes\Large\ConveyorTube.mwm</string>
+    <string>Models\Cubes\Large\Window1x2FlatInv.mwm</string>
+    <string>Models\Cubes\Large\InteriorPillar.mwm</string>
+    <string>Models\Cubes\Large\AtmosphericThrusterSmall.mwm</string>
+    <string>Models\Cubes\Large\gyroscope.mwm</string>
+    <string>Models\Cubes\Large\OxygenPressurizer.mwm</string>
+    <string>Models\Cubes\Large\GeneratorSmall.mwm</string>
+    <string>Models\Cubes\Large\TimerBlock.mwm</string>
+    <string>Models\Cubes\Large\beacon.mwm</string>
+    <string>Models\Cubes\Large\Window2x3FlatInv.mwm</string>
+    <string>Models\Cubes\Large\Window2x3Flat.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Slope.mwm</string>
+    <string>Models\Cubes\Large\LCDPanel.mwm</string>
+    <string>Models\Cubes\Large\InteriorLight.mwm</string>
+    <string>Models\Cubes\Large\AtmosphericThrusterLarge.mwm</string>
+    <string>Models\Cubes\Large\ProgrammingBlock.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+  </VicinityModelsCache>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
+</MyObjectBuilder_Checkpoint>
